@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>ae9cb35c-a694-4b6c-83c7-43161924b203</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>COS-101_PA2_.py</StartupFile>
+    <StartupFile>COS-101_PA2_AR.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="COS-101_PA2_.py" />
+    <Compile Include="COS-101_PA2_AR.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
